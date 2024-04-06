@@ -1,0 +1,8 @@
+const nome1 = "Roberto "; 
+const nome2 = "Carlos";
+const result = "Nome e Sobre Nome = "+ nome1+ nome2;
+
+console.log (result)
+
+
+"Se Convertermos 28 graus celsius em Fahrenheit o Resultado Sera? = "
